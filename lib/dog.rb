@@ -1,12 +1,7 @@
 class Dog
 
-def fido
-end
-
-def snoopy
-end
-
-def lassie
+def dogs
+  
 end
 
 end
